@@ -1,4 +1,4 @@
-transformers==4.9.2
+transformers==4.30.2
 torch
-flask==2.0.1
-boto3==1.17.72
+flask==2.3.2
+boto3==1.28.38
