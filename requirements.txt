@@ -1,0 +1,4 @@
+transformers==4.9.2
+torch
+flask==2.0.1
+boto3==1.17.72
