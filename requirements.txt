@@ -2,3 +2,4 @@ transformers==4.30.2
 torch
 flask==2.3.2
 boto3==1.28.38
+pytest
